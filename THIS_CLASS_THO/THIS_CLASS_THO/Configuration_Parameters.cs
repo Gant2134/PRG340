@@ -18,7 +18,15 @@ namespace THIS_CLASS_THO
         
         public Configuration_Parameters(String configFileName)
         {
-            //
+            FileStream fs = File.Open(configFileName, FileMode.Open, FileAccess.Read, FileShare.None);
+            if(fs== null)
+            {
+                Console.WriteLine("this shit dont work - abort mission");
+            }
+            else
+            {
+                Console.WriteLine("file is available for your veiwing pleasure");
+            }
 
         }
 

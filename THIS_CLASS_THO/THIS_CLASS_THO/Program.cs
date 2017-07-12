@@ -10,6 +10,7 @@ namespace THIS_CLASS_THO
     {
         static void Main(string[] args)
         {
+            Configuration_Parameters param = new Configuration_Parameters("config.txt");
             Utilities.UnitTest();
             Console.Read();
         }
