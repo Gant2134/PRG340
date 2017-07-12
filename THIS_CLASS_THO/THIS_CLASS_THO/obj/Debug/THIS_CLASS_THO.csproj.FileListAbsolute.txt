@@ -1,0 +1,6 @@
+C:\Users\CCSDuser\Documents\GitHub\PRG340\THIS_CLASS_THO\THIS_CLASS_THO\bin\Debug\THIS_CLASS_THO.exe.config
+C:\Users\CCSDuser\Documents\GitHub\PRG340\THIS_CLASS_THO\THIS_CLASS_THO\bin\Debug\THIS_CLASS_THO.exe
+C:\Users\CCSDuser\Documents\GitHub\PRG340\THIS_CLASS_THO\THIS_CLASS_THO\bin\Debug\THIS_CLASS_THO.pdb
+C:\Users\CCSDuser\Documents\GitHub\PRG340\THIS_CLASS_THO\THIS_CLASS_THO\obj\Debug\THIS_CLASS_THO.csprojResolveAssemblyReference.cache
+C:\Users\CCSDuser\Documents\GitHub\PRG340\THIS_CLASS_THO\THIS_CLASS_THO\obj\Debug\THIS_CLASS_THO.exe
+C:\Users\CCSDuser\Documents\GitHub\PRG340\THIS_CLASS_THO\THIS_CLASS_THO\obj\Debug\THIS_CLASS_THO.pdb
