@@ -21,7 +21,7 @@ namespace THIS_CLASS_THO
             FileStream fs = File.Open(configFileName, FileMode.Open, FileAccess.Read, FileShare.None);
             if(fs== null)
             {
-                Console.WriteLine("this shit dont work - abort mission");
+                Console.WriteLine("Nope, this is Bullshit, abort mission");
             }
             else
             {
